@@ -1,0 +1,838 @@
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhost
+
+203.205.138.79 203.205.138.79
+203.205.138.79 .net
+203.205.138.79 .com
+203.205.138.79 .org
+203.205.138.79 www.qq.com
+203.205.138.79 qzone.qq.com
+203.205.138.79 mail.qq.com
+203.205.138.79 news.qq.com
+203.205.138.79 bbs.qq.com
+203.205.138.79 wpa.qq.com
+203.205.138.79 qun.qq.com
+203.205.138.79 games.qq.com
+203.205.138.79 b.qq.com
+203.205.138.79 finance.qq.com
+203.205.138.79 tech.qq.com
+203.205.138.79 lady.qq.com
+203.205.138.79 auto.qq.com
+203.205.138.79 edu.qq.com
+203.205.138.79 ent.qq.com
+203.205.138.79 sports.qq.com
+203.205.138.79 im.qq.com
+203.205.138.79 hb.qq.com
+203.205.138.79 qq.com
+203.205.138.79 gongyi.qq.com
+203.205.138.79 cf.qq.com
+203.205.138.79 music.qq.com
+203.205.138.79 cd.qq.com
+203.205.138.79 web.qq.com
+203.205.138.79 shuqian.qq.com
+203.205.138.79 dnf.qq.com
+203.205.138.79 house.qq.com
+203.205.138.79 game.qq.com
+203.205.138.79 qqgame.qq.com
+203.205.138.79 service.qq.com
+203.205.138.79 sighttp.qq.com
+203.205.138.79 pc.qq.com
+203.205.138.79 cq.qq.com
+203.205.138.79 book.qq.com
+203.205.138.79 speed.qq.com
+203.205.138.79 py.qq.com
+203.205.138.79 player.qq.com
+203.205.138.79 comic.qq.com
+203.205.138.79 vip.qq.com
+203.205.138.79 x5.qq.com
+203.205.138.79 xian.qq.com
+203.205.138.79 pay.qq.com
+203.205.138.79 3g.qq.com
+203.205.138.79 kid.qq.com
+203.205.138.79 imgcache.qq.com
+203.205.138.79 blog.qq.com
+203.205.138.79 mobile.qq.com
+203.205.138.79 xf.qq.com
+203.205.138.79 video.qq.com
+203.205.138.79 mil.qq.com
+203.205.138.79 show.qq.com
+203.205.138.79 baby.qq.com
+203.205.138.79 mq.qq.com
+203.205.138.79 xiaoyou.qq.com
+203.205.138.79 haoma.qq.com
+203.205.138.79 photo.qq.com
+203.205.138.79 luxury.qq.com
+203.205.138.79 3gqq.qq.com
+203.205.138.79 m.qq.com
+203.205.138.79 aq.qq.com
+203.205.138.79 yue.qq.com
+203.205.138.79 fashion.qq.com
+203.205.138.79 tv.qq.com
+203.205.138.79 pp.qq.com
+203.205.138.79 eurosport.qq.com
+203.205.138.79 cul.qq.com
+203.205.138.79 gamebbs.qq.com
+203.205.138.79 i.qq.com
+203.205.138.79 id.qq.com
+203.205.138.79 adver.qq.com
+203.205.138.79 kf.qq.com
+203.205.138.79 xx.qq.com
+203.205.138.79 qqxy.qq.com
+203.205.138.79 hea.qq.com
+203.205.138.79 img1.qq.com
+203.205.138.79 abc.qq.com
+203.205.138.79 tt.qq.com
+203.205.138.79 freeqqm.qq.com
+203.205.138.79 pet.qq.com
+203.205.138.79 qqtang.qq.com
+203.205.138.79 qt.qq.com
+203.205.138.79 chat.qq.com
+203.205.138.79 weather.qq.com
+203.205.138.79 gamezone.qq.com
+203.205.138.79 labs.qq.com
+203.205.138.79 qbar.qq.com
+203.205.138.79 2008.qq.com
+203.205.138.79 sg.qq.com
+203.205.138.79 fo.qq.com
+203.205.138.79 fanli.qq.com
+203.205.138.79 fm.qq.com
+203.205.138.79 rss.qq.com
+203.205.138.79 ava.qq.com
+203.205.138.79 mat1.qq.com
+203.205.138.79 support.qq.com
+203.205.138.79 r2.qq.com
+203.205.138.79 xj.qq.com
+203.205.138.79 xxz.qq.com
+203.205.138.79 2010.qq.com
+203.205.138.79 webqq.qq.com
+203.205.138.79 bb.qq.com
+203.205.138.79 love.qq.com
+203.205.138.79 joke.qq.com
+203.205.138.79 exp.qq.com
+203.205.138.79 astro.qq.com
+203.205.138.79 mag.qq.com
+203.205.138.79 fav.qq.com
+203.205.138.79 digi.qq.com
+203.205.138.79 minisite.qq.com
+203.205.138.79 appnews.qq.com
+203.205.138.79 dl-dir.qq.com
+203.205.138.79 huifu.qq.com
+203.205.138.79 ossweb-img.qq.com
+203.205.138.79 down.qq.com
+203.205.138.79 dm.qq.com
+203.205.138.79 battle.qq.com
+203.205.138.79 group.qq.com
+203.205.138.79 hxsj.qq.com
+203.205.138.79 zg.qq.com
+203.205.138.79 my.qq.com
+203.205.138.79 bizapp.qq.com
+203.205.138.79 fiba.qq.com
+203.205.138.79 sms.qq.com
+203.205.138.79 safe.qq.com
+203.205.138.79 pinyin.qq.com
+203.205.138.79 disk.qq.com
+203.205.138.79 nana.qq.com
+203.205.138.79 qqshow.qq.com
+203.205.138.79 hx2.qq.com
+203.205.138.79 school.qq.com
+203.205.138.79 q-zone.qq.com
+203.205.138.79 jifen.qq.com
+203.205.138.79 mpay.qq.com
+203.205.138.79 digest.qq.com
+203.205.138.79 is.qq.com
+203.205.138.79 account.qq.com
+203.205.138.79 super.qq.com
+203.205.138.79 qqplayer.qq.com
+203.205.138.79 kaixuan.qq.com
+203.205.138.79 download.qq.com
+203.205.138.79 jiaoyou.qq.com
+203.205.138.79 icoke.qq.com
+203.205.138.79 gamevip.qq.com
+203.205.138.79 yinxin.qq.com
+203.205.138.79 fcm.qq.com
+203.205.138.79 notice.qq.com
+203.205.138.79 sl.qq.com
+203.205.138.79 xunxian.qq.com
+203.205.138.79 freereg.qq.com
+203.205.138.79 bbsimg.qq.com
+203.205.138.79 hi.qq.com
+203.205.138.79 so.qq.com
+203.205.138.79 home.qq.com
+203.205.138.79 gaokao.qq.com
+203.205.138.79 wcg.qq.com
+203.205.138.79 appbook.qq.com
+203.205.138.79 123.qq.com
+203.205.138.79 fs.qq.com
+203.205.138.79 ffo.qq.com
+203.205.138.79 mskin.qq.com
+203.205.138.79 union.qq.com
+203.205.138.79 report.qq.com
+203.205.138.79 2006.qq.com
+203.205.138.79 happyvalley.qq.com
+203.205.138.79 store.qq.com
+203.205.138.79 jihuo.qq.com
+203.205.138.79 vote.qq.com
+203.205.138.79 kids.qq.com
+203.205.138.79 friend.qq.com
+203.205.138.79 voice.qq.com
+203.205.138.79 club.qq.com
+203.205.138.79 freeqq2.qq.com
+203.205.138.79 bank.qq.com
+203.205.138.79 adsfile.qq.com
+203.205.138.79 comment.qq.com
+203.205.138.79 2004.qq.com
+203.205.138.79 webgame.qq.com
+203.205.138.79 olympic.qq.com
+203.205.138.79 10.qq.com
+203.205.138.79 sgmexpo2010.qq.com
+203.205.138.79 chinabig.qq.com
+203.205.138.79 qqspace-av.qq.com
+203.205.138.79 ht125543267.qq.com
+203.205.138.79 minisite2009.qq.com
+203.205.138.79 bd.qq.com
+203.205.138.79 tic.qq.com
+203.205.138.79 netbar.qq.com
+203.205.138.79 3d.qq.com
+203.205.138.79 qqx.qq.com
+203.205.138.79 jz.qq.com
+203.205.138.79 imis.qq.com
+203.205.138.79 im-cgi.qq.com
+203.205.138.79 cface-page.qq.com
+203.205.138.79 appedu.qq.com
+203.205.138.79 magic.qq.com
+203.205.138.79 citiccard.qq.com
+203.205.138.79 gcs.qq.com
+203.205.138.79 free.qq.com
+203.205.138.79 91.qq.com
+203.205.138.79 vnet.qq.com
+ 183.250.88.20 14meping.igamecj.com
+183.250.88.20 127.1hkspeed.igamecj.com
+183.250.88.20 1krping.igamecj.com
+183.250.88.20 1pay.igamecj.com
+183.250.88.20 4lobby.igamecj.com
+183.250.88.20 5ed.igamecj.com
+183.250.88.20 65-hkping.igamecj.com
+183.250.88.20 aping.igamecj.com
+183.250.88.20 apple.igamecj.com
+183.250.88.20 apple3.igamecj.com
+183.250.88.20 liteping.asia.igamecj.com
+183.250.88.20 ping.asia.igamecj.com
+183.250.88.20 asia.igamecj.com
+183.250.88.20 asing.igamecj.com
+183.250.88.20 askapi.igamecj.com
+183.250.88.20 asping.igamecj.com
+183.250.88.20 ay.igamecj.com
+183.250.88.20 beuping.igamecj.com
+183.250.88.20 c8krping.igamecj.com
+183.250.88.20 cdn.igamecj.com
+183.250.88.20 cloud.igamecj.com
+183.250.88.20 cloud-versvr.igamecj.com
+183.250.88.20 qq.com.igamecj.com
+183.250.88.20 reverse.comsaping.igamecj.com
+183.250.88.20 config.igamecj.com
+183.250.88.20 d-filecdn.igamecj.com
+183.250.88.20 d4file.igamecj.com
+183.250.88.20 gcloud.download.igamecj.com
+183.250.88.20 f7gcloud.download.igamecj.com
+183.250.88.20 gcloud1.download.igamecj.com
+183.250.88.20 gcloud2.download.igamecj.com
+183.250.88.20 download.igamecj.com
+183.250.88.20 gcloud.download1.igamecj.com
+183.250.88.20 end.igamecj.com
+183.250.88.20 liteping.eu.igamecj.com
+183.250.88.20 eu.igamecj.com
+183.250.88.20 eu-meping.igamecj.com
+183.250.88.20 euping.igamecj.com
+183.250.88.20 euseed.igamecj.com
+183.250.88.20 euspeed.igamecj.com
+183.250.88.20 www.euspeed.igamecj.com
+183.250.88.20 euspeed1.igamecj.com
+183.250.88.20 f5pay.igamecj.com
+183.250.88.20 fele.igamecj.com
+183.250.88.20 fike.igamecj.com
+183.250.88.20 file.igamecj.com
+183.250.88.20 www.file.igamecj.com
+183.250.88.20 file1.igamecj.com
+183.250.88.20 filecdn.igamecj.com
+183.250.88.20 www.filecdn.igamecj.com
+183.250.88.20 filehk.igamecj.com
+183.250.88.20 filei.igamecj.com
+183.250.88.20 files.igamecj.com
+183.250.88.20 free.igamecj.com
+183.250.88.20 fule.igamecj.com
+183.250.88.20 g-us-notice.igamecj.com
+183.250.88.20 g-us-sdkapi.igamecj.com
+183.250.88.20 g4ig-us-sdkapi.igamecj.com
+183.250.88.20 game.igamecj.com
+183.250.88.20 gamet.igamecj.com
+183.250.88.20 web.gcloud.igamecj.com
+183.250.88.20 gcloud.igamecj.com
+183.250.88.20 comweb.gcloud.igamecj.com
+183.250.88.20 eb.gcloud.igamecj.com
+183.250.88.20 csoversea.gcloud.igamecj.com
+183.250.88.20 gcloud-versvr.igamecj.com
+183.250.88.20 web.gclouds.igamecj.com
+183.250.88.20 gg-us-notice.igamecj.com
+183.250.88.20 gg-us-sdkapi.igamecj.com
+183.250.88.20 gile.igamecj.com
+183.250.88.20 glblobby.igamecj.com
+183.250.88.20 gllobby.igamecj.com
+183.250.88.20 web.gloud.igamecj.com
+183.250.88.20 headshot.igamecj.com
+183.250.88.20 help.igamecj.com
+183.250.88.20 hk.igamecj.com
+183.250.88.20 liteping.hk.igamecj.com
+183.250.88.20 hkconfig.igamecj.com
+183.250.88.20 hkpeed.igamecj.com
+183.250.88.20 hkping.igamecj.com
+183.250.88.20 qos.hkping.igamecj.com
+183.250.88.20 hkpink.igamecj.com
+183.250.88.20 hksggd.igamecj.com
+183.250.88.20 hksgspeed.igamecj.com
+183.250.88.20 hkspeed.igamecj.com
+183.250.88.20 www.hkspeed.igamecj.com
+183.250.88.20 hkspped.igamecj.com
+183.250.88.20 hotcool.igamecj.com
+183.250.88.20 hpspeed.igamecj.com
+183.250.88.20 id.igamecj.com
+183.250.88.20 idcconfig.igamecj.com
+183.250.88.20 idping.igamecj.com
+183.250.88.20 idspeed.igamecj.com
+183.250.88.20 ifilecdn.igamecj.com
+183.250.88.20 ig.igamecj.com
+183.250.88.20 ig-notice.igamecj.com
+183.250.88.20 ig-url.igamecj.com
+183.250.88.20 ig-us.igamecj.com
+183.250.88.20 ig-us-askapi.igamecj.com
+183.250.88.20 ig-us-help.igamecj.com
+183.250.88.20 ig-us-login.igamecj.com
+183.250.88.20 ig-us-notce.igamecj.com
+183.250.88.20 ig-us-notice.igamecj.com
+183.250.88.20 ig-us-notice1.igamecj.com
+183.250.88.20 ig-us-pre.igamecj.com
+183.250.88.20 ig-us-sdkapi.igamecj.com
+183.250.88.20 saping.ig-us-sdkapi.igamecj.com
+183.250.88.20 ig-us-sdkapi1.igamecj.com
+183.250.88.20 ig-us-sdkpi.igamecj.com
+183.250.88.20 ig-us-serverhelp.igamecj.com
+183.250.88.20 ig-us-test.igamecj.com
+183.250.88.20 ig-us-test1.igamecj.com
+183.250.88.20 ig-us-test2.igamecj.com
+183.250.88.20 ig-us-test3.igamecj.com
+183.250.88.20 ig-us-test4.igamecj.com
+183.250.88.20 ig-us-test5.igamecj.com
+183.250.88.20 ig-usnotice.igamecj.com
+183.250.88.20 igame.igamecj.com
+183.250.88.20 ikspeed.igamecj.com
+183.250.88.20 im.igamecj.com
+183.250.88.20 imeping.igamecj.com
+183.250.88.20 inaping.igamecj.com
+183.250.88.20 inaspeed.igamecj.com
+183.250.88.20 indping.igamecj.com
+183.250.88.20 inping.igamecj.com
+183.250.88.20 inspeed.igamecj.com
+183.250.88.20 ios.igamecj.com
+183.250.88.20 itopty.igamecj.com
+183.250.88.20 job.igamecj.com
+183.250.88.20 keping.igamecj.com
+183.250.88.20 kiping.igamecj.com
+183.250.88.20 kr.igamecj.com
+183.250.88.20 kr-ios.igamecj.com
+183.250.88.20 kr-ios1.igamecj.com
+183.250.88.20 kr-ios2.igamecj.com
+183.250.88.20 kr-test.igamecj.com
+183.250.88.20 krgame.igamecj.com
+183.250.88.20 krimping.igamecj.com
+183.250.88.20 kriping.igamecj.com
+183.250.88.20 krlobby.igamecj.com
+183.250.88.20 www.krlobby.igamecj.com
+183.250.88.20 krlobbyt.igamecj.com
+183.250.88.20 krloby.igamecj.com
+183.250.88.20 krping.igamecj.com
+183.250.88.20 ww.krping.igamecj.com
+183.250.88.20 krpublic.igamecj.com
+183.250.88.20 krspeed.igamecj.com
+183.250.88.20 lite-lobby.igamecj.com
+183.250.88.20 lite-public.igamecj.com
+183.250.88.20 litelobby.igamecj.com
+183.250.88.20 llobby.igamecj.com
+183.250.88.20 lobby.igamecj.com
+183.250.88.20 ios.lobby.igamecj.com
+183.250.88.20 kr.lobby.igamecj.com
+183.250.88.20 lobby1.igamecj.com
+183.250.88.20 loby.igamecj.com
+183.250.88.20 log.igamecj.com
+183.250.88.20 logs.igamecj.com
+183.250.88.20 maping.igamecj.com
+183.250.88.20 match.igamecj.com
+183.250.88.20 pwk.match.igamecj.com
+183.250.88.20 meping.igamecj.com
+183.250.88.20 www.meping.igamecj.com
+183.250.88.20 mesaping.igamecj.com
+183.250.88.20 mespeed.igamecj.com
+183.250.88.20 mpspeed.igamecj.com
+183.250.88.20 mrms.igamecj.com
+183.250.88.20 mtklobby.igamecj.com
+183.250.88.20 intl.mtp.igamecj.com
+183.250.88.20 mwebapi.igamecj.com
+183.250.88.20 n.igamecj.com
+183.250.88.20 nalobby.igamecj.com
+183.250.88.20 naping.igamecj.com
+183.250.88.20 naspeed.igamecj.com
+183.250.88.20 neping.igamecj.com
+183.250.88.20 notice.igamecj.com
+183.250.88.20 obby.igamecj.com
+183.250.88.20 sao.online.igamecj.com
+183.250.88.20 mtkehp.online.igamecj.com
+183.250.88.20 pact.igamecj.com
+183.250.88.20 pag.igamecj.com
+183.250.88.20 pay.igamecj.com
+183.250.88.20 www.pay.igamecj.com
+183.250.88.20 pay1.igamecj.com
+183.250.88.20 ping.igamecj.com
+183.250.88.20 pkspeed.igamecj.com
+183.250.88.20 play.igamecj.com
+183.250.88.20 playreview.igamecj.com
+183.250.88.20 pre-lobby.igamecj.com
+183.250.88.20 pubg.igamecj.com
+183.250.88.20 pubgkr.igamecj.com
+183.250.88.20 pubgm.igamecj.com
+183.250.88.20 public.igamecj.com
+183.250.88.20 na.pvp.igamecj.com
+183.250.88.20 na.pvp1.igamecj.com
+183.250.88.20 hk.pvp1.igamecj.com
+183.250.88.20 spf.pvp1.igamecj.com
+183.250.88.20 hk.pvp114.igamecj.com
+183.250.88.20 na.pvp2.igamecj.com
+183.250.88.20 hk.pvp2.igamecj.com
+183.250.88.20 hk.pvp21.igamecj.com
+183.250.88.20 hk.pvp22.igamecj.com
+183.250.88.20 hk.pvp23.igamecj.com
+183.250.88.20 hk.pvp24.igamecj.com
+183.250.88.20 hk.pvp26.igamecj.com
+183.250.88.20 hk.pvp35.igamecj.com
+183.250.88.20 hk.pvp69.igamecj.com
+183.250.88.20 hk.pvp70.igamecj.com
+183.250.88.20 hk.pvp8.igamecj.com
+183.250.88.20 pwk-match.igamecj.com
+183.250.88.20 py.igamecj.com
+183.250.88.20 r7meping.igamecj.com
+183.250.88.20 rc-euspeed.igamecj.com
+183.250.88.20 register.igamecj.com
+183.250.88.20 report.igamecj.com
+183.250.88.20 rping.igamecj.com
+183.250.88.20 rsig-us-notice.igamecj.com
+183.250.88.20 s-notice.igamecj.com
+183.250.88.20 s-sdkapi.igamecj.com
+183.250.88.20 liteping.sa.igamecj.com
+183.250.88.20 sa.igamecj.com
+183.250.88.20 ping.sa.igamecj.com
+183.250.88.20 sapig.igamecj.com
+183.250.88.20 saping.igamecj.com
+183.250.88.20 ipv6.saping.igamecj.com
+183.250.88.20 saspeed.igamecj.com
+183.250.88.20 sdkapi.igamecj.com
+183.250.88.20 serverhelp.igamecj.com
+183.250.88.20 sgping.igamecj.com
+183.250.88.20 sgspeed.igamecj.com
+183.250.88.20 smtp.igamecj.com
+183.250.88.20 soping.igamecj.com
+183.250.88.20 speed.igamecj.com
+183.250.88.20 kr.speed.igamecj.com
+183.250.88.20 t4krlobby.igamecj.com
+183.250.88.20 tencent.igamecj.com
+183.250.88.20 tencentgames.igamecj.com
+183.250.88.20 tencentlobby.igamecj.com
+183.250.88.20 test.igamecj.com
+183.250.88.20 tlobby.igamecj.com
+183.250.88.20 tw.igamecj.com
+183.250.88.20 twlobby.igamecj.com
+183.250.88.20 twlobby1.igamecj.com
+183.250.88.20 twlobbyy.igamecj.com
+183.250.88.20 twping.igamecj.com
+183.250.88.20 twpublic.igamecj.com
+183.250.88.20 twspeed.igamecj.com
+183.250.88.20 u4krping.igamecj.com
+183.250.88.20 u7naping.igamecj.com
+183.250.88.20 uaespeed.igamecj.com
+183.250.88.20 uping.igamecj.com
+183.250.88.20 us-sdkapi.igamecj.com
+183.250.88.20 uslobby.igamecj.com
+183.250.88.20 usping.igamecj.com
+183.250.88.20 versvr.igamecj.com
+183.250.88.20 vng-pre-lobby.igamecj.com
+183.250.88.20 vnglobby.igamecj.com
+183.250.88.20 vnglobbyt.igamecj.com
+183.250.88.20 vngpublic.igamecj.com
+183.250.88.20 vngspeed.igamecj.com
+183.250.88.20 vnlobby.igamecj.com
+183.250.88.20 vnpublic.igamecj.com
+183.250.88.20 vnspeed.igamecj.com
+183.250.88.20 hk.voice.igamecj.com
+183.250.88.20 web.igamecj.com
+183.250.88.20 winds-test.igamecj.com
+183.250.88.20 www.igamecj.com
+183.250.88.20 x-vnglobby.igamecj.com
+183.250.88.20 y6saping.igamecj.com
+p
+223.99.247.37qq.com
+223.99.247.37qq.com subdomain：
+223.99.247.37127ptlog2.00.qq.com
+223.99.247.37007.qq.com
+223.99.247.37ptlogin2.007.qq.com
+223.99.247.37127ptlogin2.007.qq.com
+223.99.247.3701.qq.com
+223.99.247.37010.qq.com
+223.99.247.3702.qq.com
+223.99.247.37020.qq.com
+223.99.247.37021.qq.com
+223.99.247.37023.qq.com
+223.99.247.3703.qq.com
+223.99.247.370311.qq.com
+223.99.247.37www.0606.qq.com
+223.99.247.370755.qq.com
+223.99.247.370919.qq.com
+223.99.247.3709lz.qq.com
+223.99.247.3709z.qq.com
+223.99.247.370helpshift.qq.com
+223.99.247.370km.qq.com
+223.99.247.370x1.qq.com
+223.99.247.370x9a5cc8e0.qq.com
+223.99.247.371.qq.com
+223.99.247.37dlied.1.qq.com
+223.99.247.37p.1.qq.com
+223.99.247.371-down.qq.com
+223.99.247.3710.qq.com
+223.99.247.37user.10.qq.com
+223.99.247.37avatar.10.qq.com
+223.99.247.37100.qq.com
+223.99.247.37res.100.qq.com
+223.99.247.37file.100.qq.com
+223.99.247.37smtpgbg.100.qq.com
+223.99.247.371000.qq.com
+223.99.247.371000qq.qq.com
+223.99.247.371001.qq.com
+223.99.247.371007.qq.com
+223.99.247.37pick.101.qq.com
+223.99.247.37101.qq.com
+223.99.247.37www.101.qq.com
+223.99.247.371010.qq.com
+223.99.247.37102.qq.com
+223.99.247.37108.qq.com
+223.99.247.37ptlogin2.108.qq.com
+223.99.247.37m.108.qq.com
+223.99.247.37game.108.qq.com
+223.99.247.3710down.qq.com
+223.99.247.3710menitban.qq.com
+223.99.247.3710menitbann.qq.com
+223.99.247.3710mimutelevivohcias.qq.com
+223.99.247.3710mimutes.qq.com
+223.99.247.3710min.qq.com
+223.99.247.3710minban.qq.com
+223.99.247.3710mintban.qq.com
+223.99.247.3710minute.qq.com
+223.99.247.3710minutes.qq.com
+223.99.247.3710mntban.qq.com
+223.99.247.3710mx3.qq.com
+223.99.247.3710sc.qq.com
+223.99.247.3710secondban.qq.com
+223.99.247.3710y.qq.com
+223.99.247.3710year.qq.com
+223.99.247.3710yearbanbed.qq.com
+223.99.247.3710yearbanned.qq.com
+223.99.247.3710years.qq.com
+223.99.247.3710yearsban.qq.com
+223.99.247.3710yersband.qq.com
+223.99.247.3710yrar.qq.com
+223.99.247.3711.qq.com
+223.99.247.37cloud.11.qq.com
+223.99.247.37m.11.qq.com
+223.99.247.37learn.11.qq.com
+223.99.247.37110.qq.com
+223.99.247.37www.110.qq.com
+223.99.247.371106210667.qq.com
+223.99.247.37110621067.qq.com
+223.99.247.371108.qq.com
+223.99.247.37111.qq.com
+223.99.247.371111.qq.com
+223.99.247.371124052719.qq.com
+223.99.247.37800074998.114.qq.com
+223.99.247.37800148407.114.qq.com
+223.99.247.37800190677.114.qq.com
+223.99.247.37800136662.114.qq.com
+223.99.247.37800136885.114.qq.com
+223.99.247.37800806500.114.qq.com
+223.99.247.37800097703.114.qq.com
+223.99.247.37800124988.114.qq.com
+223.99.247.37800141521.114.qq.com
+223.99.247.374000797570.114.qq.com
+223.99.247.37800088268.114.qq.com
+223.99.247.37800009305.114.qq.com
+223.99.247.37800062652.114.qq.com
+223.99.247.37800042133.114.qq.com
+223.99.247.37800119090.114.qq.com
+223.99.247.37800094843.114.qq.com
+223.99.247.374000678678.114.qq.com
+223.99.247.37114.qq.com
+223.99.247.37img0.114.qq.com
+223.99.247.37space.114.qq.com
+223.99.247.37800082831.114.qq.com
+223.99.247.37800141624.114.qq.com
+223.99.247.37800090282.114.qq.com
+223.99.247.37800036305.114.qq.com
+223.99.247.374008878101.114.qq.com
+223.99.247.37800123668.114.qq.com
+223.99.247.37800050288.114.qq.com
+223.99.247.37800002692.114.qq.com
+223.99.247.37800130006.114.qq.com
+223.99.247.37800157666.114.qq.com
+223.99.247.37800023433.114.qq.com
+223.99.247.37800049833.114.qq.com
+223.99.247.37800142435.114.qq.com
+223.99.247.37800088568.114.qq.com
+223.99.247.37800021190.114.qq.com
+223.99.247.37800003385.114.qq.com
+223.99.247.37800099989.114.qq.com
+223.99.247.37800001577.114.qq.com
+223.99.247.374000806659.114.qq.com
+223.99.247.37800061810.114.qq.com
+223.99.247.37800064889.114.qq.com
+223.99.247.37800091096.114.qq.com
+223.99.247.37800019753.114.qq.com
+223.99.247.37800013080.114.qq.com
+223.99.247.37800123678.114.qq.com
+223.99.247.37800030490.114.qq.com
+223.99.247.37800065358.114.qq.com
+223.99.247.374000290153.114.qq.com
+223.99.247.37800057627.114.qq.com
+223.99.247.374006673735.114.qq.com
+223.99.247.374007085577.114.qq.com
+223.99.247.374006666800.114.qq.com
+223.99.247.37800196321.114.qq.com
+223.99.247.37800004544.114.qq.com
+223.99.247.37800026471.114.qq.com
+223.99.247.37800135558.114.qq.com
+223.99.247.37800056397.114.qq.com
+223.99.247.374000023299.114.qq.com
+223.99.247.37800007813.114.qq.com
+223.99.247.378001484097.114.qq.com
+223.99.247.374008883948.114.qq.com
+223.99.247.37800832932.114.qq.com
+223.99.247.37800011099.114.qq.com
+223.99.247.374009939669.114.qq.com
+223.99.247.37800074845.114.qq.com
+223.99.247.37800078340.114.qq.com
+223.99.247.37800007606.114.qq.com
+223.99.247.373000205170.114.qq.com
+223.99.247.37800169232.114.qq.com
+223.99.247.37800057833.114.qq.com
+223.99.247.374008800163.114.qq.com
+223.99.247.374000048477.114.qq.com
+223.99.247.374008678848.114.qq.com
+223.99.247.374007171717.114.qq.com
+223.99.247.37800027097.114.qq.com
+223.99.247.37800156164.114.qq.com
+223.99.247.37800115211.114.qq.com
+223.99.247.37800076579.114.qq.com
+223.99.247.37800068718.114.qq.com
+223.99.247.37800093335.114.qq.com
+223.99.247.374008218365.114.qq.com
+223.99.247.37800065537.114.qq.com
+223.99.247.378007777777.114.qq.com
+223.99.247.374000105656.114.qq.com
+223.99.247.374000052030.114.qq.com
+223.99.247.374006172717.114.qq.com
+223.99.247.373000205472.114.qq.com
+223.99.247.374008218855.114.qq.com
+223.99.247.374008226117.114.qq.com
+223.99.247.374006669921.114.qq.com
+223.99.247.374008567139.114.qq.com
+223.99.247.37800067399.114.qq.com
+223.99.247.374009919903.114.qq.com
+223.99.247.37800150881.114.qq.com
+223.99.247.374000519995.114.qq.com
+223.99.247 374006865885.114.qq.com
+223.99.247 37800046988.114.qq.com
+223.99.247 378003475575.114.qq.com
+223.99.247 374000026011.114.qq.com
+223.99.247 37800148262.114.qq.com
+223.99.247 37800031634.114.qq.com
+223.99.247 37800019305.114.qq.com
+223.99.247 37800042111.114.qq.com
+223.99.247 37800070020.114.qq.com
+223.99.247 37800056404.114.qq.com
+223.99.247 37800103538.114.qq.com
+223.99.247 37800058010.114.qq.com
+223.99.247 374008208660.114.qq.com
+223.99.247 37800051811.114.qq.com
+223.99.247 374006163518.114.qq.com
+223.99.247 374000800478.114.qq.com
+223.99.247 378005188880.114.qq.com
+223.99.247 37800081010.114.qq.com
+223.99.247 37800049212.114.qq.com
+223.99.247 37800050769.114.qq.com
+223.99.247 37800019308.114.qq.com
+223.99.247 37800025930.114.qq.com
+223.99.247 37800102066.114.qq.com
+223.99.247 374008856830.114.qq.com
+223.99.247 374000365520.114.qq.com
+223.99.247 374000044400.114.qq.com
+223.99.247 374000188180.114.qq.com
+223.99.247 374006502512.114.qq.com
+223.99.247 37800045434.114.qq.com
+223.99.247 373000209644.114.qq.com
+223.99.247 37800009015.114.qq.com
+223.99.247 374009915885.114.qq.com
+223.99.247 37800055154.114.qq.com
+223.99.247 37800045877.114.qq.com
+223.99.247 374008009070.114.qq.com
+223.99.247 374006040660.114.qq.com
+223.99.247 374002125751.114.qq.com
+223.99.247 374006689050.114.qq.com
+223.99.247 374001870188.114.qq.com
+223.99.247 37800002255.114.qq.com
+223.99.247 37800025723.114.qq.com
+223.99.247 374008118692.114.qq.com
+223.99.247 374009956111.114.qq.com
+223.99.247 374000451001.114.qq.com
+223.99.247 374006220538.114.qq.com
+223.99.247 374006516918.114.qq.com
+223.99.247 37800076711.114.qq.com
+223.99.247 37800083898.114.qq.com
+223.99.247 37800007772.114.qq.com
+223.99.247 374000197990.114.qq.com
+223.99.247 373000201366.114.qq.com
+223.99.247 37800022058.114.qq.com
+223.99.247 37800007189.114.qq.com
+223.99.247 37800078560.114.qq.com
+223.99.247 374008804560.114.qq.com
+223.99.247 37800100989.114.qq.com
+223.99.247 37800006345.114.qq.com
+223.99.247 37800035750.114.qq.com
+223.99.247 374000288199.114.qq.com
+223.99.247 374008883850.114.qq.com
+223.99.247 374000068202.114.qq.com
+223.99.247 374001114567.114.qq.com
+223.99.247 374000126777.114.qq.com
+223.99.247 374007770793.114.qq.com
+223.99.24737800052766.114.qq.com
+223.99.247 37800088843.114.qq.com
+223.99.247 37800078830.114.qq.com
+223.99.247 37800018623.114.qq.com
+223.99.247 37800004831.114.qq.com
+223.99.247 37800028313.114.qq.com
+223.99.247 37800008165.114.qq.com
+223.99.247 37800038112.114.qq.com
+223.99.247 37800018669.114.qq.com
+223.99.247 37800188362.114.qq.com
+223.99.247 37800001109.114.qq.com
+223.99.247 37800017003.114.qq.com
+223.99.247 374000593076.114.qq.com
+223.99.247 374000503850.114.qq.com
+223.99.247 374008810120.114.qq.com
+223.99.247 37800101791.114.qq.com
+223.99.247 37800006461.114.qq.com
+223.99.247 37800073371.114.qq.com
+223.99.247 37800037649.114.qq.com
+223.99.247 374002100610.114.qq.com
+223.99.247 37800080664.114.qq.com
+223.99.247.374006011063.114.qq.com
+223.99.247 37800013646.114.qq.com
+223.99.247 374001808400.114.qq.com
+223.99.247 37800021359.114.qq.com
+223.99.247 374008001987.114.qq.com
+223.99.247 374009979099.114.qq.com
+223.99.247373000205686.114.qq.com
+223.99.247 37800015382.114.qq.com
+223.99.247 37800153600.114.qq.com
+223.99.247 37800003900.114.qq.com
+223.99.247 374000860166.114.qq.com
+223.99.247 374006755765.114.qq.com
+223.99.247 37800000868.114.qq.com
+223.99.247 37800029499.114.qq.com
+223.99.247 37800072302.114.qq.com
+223.99.247 374006903131.114.qq.com
+223.99.247 37800008112.114.qq.com
+223.99.247 37800052587.114.qq.com
+223.99.247 37800038696.114.qq.com
+104.27.137.119
+104.27.136.119
+74.86.3.208
+54.215.200.68
+104.24.122.69
+35.241.11.162
+203.205.253.184
+112.124.178.211
+107.163.15.214
+170.178.179.179
+104.31.64.198
+198.74.110.43
+180.163.25.202
+14.21.76.137
+101.91.63.139
+125.39.52.26
+58.247.214.47
+58.250.137.36
+123.151.137.18
+183.3.226.35
+61.129.7.47
+125.39.52.26
+58.247.214.47
+58.250.137.36
+123.151.137.18
+183.3.226.35
+61.129.7.47
+182.254.50.164
+121.51.36.46
+121.51.142.21
+0.0.0.1
+150.109.206.38
+150.109.207.111
+203.205.137.226
+203.205.137.113
+111.161.64.40
+58.60.9.21
+111.161.64.48
+180.163.26.39
+59.37.96.63
+182.254.34.74
+203.205.158.37
+203.205.138.79
+182.254.18.159
+182.254.74.167
+203.205.158.38
+220.194.87.100
+180.101.153.103
+223.111.97.203
+123.6.1.62
+42.81.85.253
+119.167.217.123
+27.22.52.107
+183.201.241.69
+120.233.38.76
+59.83.218.107
+118.112.11.251
+203.205.138.57
+79.124.78.105
+125.39.240.113
+14.17.32.211
+61.135.157.156
+101.226.103.106
+120.198.201.156
+111.30.132.101
+223.99.247.37
+163.177.65.160
+
+
+
